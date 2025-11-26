@@ -34,15 +34,20 @@ Frontend bruker disse metodene for å hente og manipulere data fra backend.
 Hvordan kjøre prosjektet
 -
 1. Åpne terminal og naviger til API-mappen:
+
+```
    cd RacingAPI
    dotnet run
-   
-3. Start frontend
+```
+
+2. Start frontend
 
 Åpne terminal og naviger til Frontend-mappen:
+```
 cd racing-frontend
 npm install
 npm start
+```
 
 <hr style="height": 3px>
 
