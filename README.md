@@ -3,6 +3,7 @@ DS3103 - Web Developmen (CRUD Project)
 Dette prosjektet ble utviklet som en del av eksamen i faget DSR3103 - Web Development ved Høyskolen Kristiania - høst 2023.
 
 Målet med prosjektet var å utvikle en fullstendig CRUD-applikasjon med egen Web API og database. Frontend kommuniserer med API-et gjennom HTTP-requests (GET, POST, PUT, DELETE)
+
 <hr style="height": 3px>
 
 Teknologier
@@ -53,8 +54,8 @@ npm start
 
 Om prosjektet
 -
-Prosjektet viser hvordan man kan bygge en enkel shopping-app i Android med moderne teknologi som Jetpack Compose.
+Prosjektet demonstrerer hvordan man kan bygge en enkel fullstack applikasjon med CRUD-funksjonalitet, hvor frontend og backend kommuniserer via et REST-API.
 
-Appen integrerer med et REST API for å hente produktet og gir brukeren mulighet til å se på produkter, legge de til i en handekurv og gjennomføre et "kjøp".
+Prosjektet ble utviklet som en del av faget DS3103 - Web Development, med mål for å vise forståelse for både backend og frontend-utvikling
 
-> Resultatet av eksamen ble A
+> Resultatet av eksamen ble B
